@@ -10,8 +10,15 @@ To write a Python program that calculates the **sum of all elements** in a list.
 
 ## 🧾 Program
 
-Add code here
+```
+items=[153,147,124,102]
+print(sum(items))
+```
 
 ## Output
+<img width="953" height="193" alt="image" src="https://github.com/user-attachments/assets/3865d0b3-466e-4ade-9df3-3013a0b0f1cc" />
+
+
 
 ## Result
+Thus the program executed successfully.
